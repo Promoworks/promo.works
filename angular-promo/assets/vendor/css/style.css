@@ -4906,6 +4906,18 @@ and (orientation : landscape) {
     {
         width: 2333px;
     }
+    
+    
+    #container
+    {
+        width: 100% !important;
+    }
+    
+    .carousel__items{
+    height: 1322px !important;
+}
+    
+    
   
 }
 
@@ -5258,14 +5270,14 @@ transition-timing-function: ease-in-out;
 {
   #container
     {
-        width: 650px !important;
-        min-width: 650px !important;
+        width: 600px !important;
+        min-width: 600px !important;
         margin: 23px auto !important;
     }
     
     .carousel__items
     {
-    height: 444px !important;
+    height: 405px !important;
     }
     
 }
