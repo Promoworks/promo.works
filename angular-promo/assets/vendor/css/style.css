@@ -5078,15 +5078,13 @@ and (orientation : landscape) {
 
          /**********  mac book  *************/
 
-@media only screen and (min-width: 800px) and (max-width: 1440px) 
+@media only screen and (min-width: 1440px) and (max-width: 800px) 
 {
-   
     .exp_cap_sm_6
 {
      margin-top: 0px;
     padding: 28px;
 }
-    
 }
 
 
